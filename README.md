@@ -35,5 +35,3 @@ client = OpenAI(api_key="your_api_key_here")
 response = message("What are the requirements for a computer science degree?")
 print(response)
 
-You can copy and paste this directly into your `README.md` file in your GitHub repository. Let me know if you need further adjustments!
-
